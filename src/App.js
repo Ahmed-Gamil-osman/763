@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          We can now change what we want without errors 
+          Hi ya Waleed we finally deploy nos Kom  
         </p>
         <a
           className="App-link"
