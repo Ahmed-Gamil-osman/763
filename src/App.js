@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi ya Waleed we finally deploy nos Kom  
+          we are now Devops Engineer 
         </p>
         <a
           className="App-link"
